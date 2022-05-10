@@ -155,12 +155,12 @@ details .languages li img{
 
 details > summary {
     /* list-style-type: '▶️'; */
-    list-style-image: url(images/right-arrow.png);
+    list-style-image: url(../images/right-arrow.png);
 }
 
 details[open] > summary {
     /* list-style-type: '🔽'; */
-    list-style-image: url(images/down-arrow.png);
+    list-style-image: url(../images/down-arrow.png);
 }
 
 details > summary::marker {
